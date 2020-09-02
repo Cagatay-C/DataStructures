@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="GameEntry"/>
+<fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="SLinkedList"/>
+<fullyQualifiedTypeName name="Stack"/>
+<fullyQualifiedTypeName name="java.util.EmptyStackException"/>
+<fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
+<fullyQualifiedTypeName name="EmptyQueueException"/>
+<fullyQualifiedTypeName name="QueueException"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="java.lang.ClassCastException"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
+<fullyQualifiedTypeName name="ElementIterator"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="PriorityQueue"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="PositionList"/>
+<fullyQualifiedTypeName name="SortedListPriorityQueue"/>
+<fullyQualifiedTypeName name="DNodePositionList"/>
+<fullyQualifiedTypeName name="EmptyListException"/>
+<fullyQualifiedTypeName name="Entry"/>
+<fullyQualifiedTypeName name="InvalidPositionException"/>
+<fullyQualifiedTypeName name="EmptyPriorityQueueException"/>
+<fullyQualifiedTypeName name="BoundaryViolationException"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="HashTableMap.HashEntry"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.security.InvalidKeyException"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.sound.midi.Sequence"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DNode.java&apos; to &apos;DNodeWithPosition&apos;&#x0A;- Original project: &apos;DoubleLinkedList&apos;&#x0A;- Destination element: &apos;DNodeWithPosition&apos;&#x0A;- Original element: &apos;DNode.java&apos;" description="Copy compilation unit" destination="=DNodeWithPosition" element1="/src&lt;{DNode.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1593350903005" units="1" version="1.0"/>
+</session>
